@@ -1,0 +1,40 @@
+@layer theme {
+  :root.light {
+    --primary: 40 94 73;
+    --primary-foreground: 255 255 255;
+    --card: 255 255 255;
+    --secondary: 238 238 229;
+    --secondary-foreground: 32 47 43;
+    --background: 247 246 240;
+    --popover: 255 255 255;
+    --popover-foreground: 32 47 43;
+    --muted: 238 238 229;
+    --muted-foreground: 105 117 110;
+    --destructive: 164 62 62;
+    --foreground: 32 47 43;
+    --border: 222 222 211;
+    --input: 222 222 211;
+    --ring: 40 94 73;
+    --accent: 227 237 229;
+    --accent-foreground: 40 94 73;
+  }
+  :root.dark {
+    --primary: 167 209 180;
+    --primary-foreground: 23 39 30;
+    --card: 32 43 37;
+    --secondary: 42 53 46;
+    --secondary-foreground: 238 239 230;
+    --background: 23 30 27;
+    --popover: 32 43 37;
+    --popover-foreground: 238 239 230;
+    --muted: 42 53 46;
+    --muted-foreground: 173 184 174;
+    --destructive: 241 170 170;
+    --foreground: 238 239 230;
+    --border: 53 66 57;
+    --input: 53 66 57;
+    --ring: 167 209 180;
+    --accent: 43 68 54;
+    --accent-foreground: 167 209 180;
+  }
+}

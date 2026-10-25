@@ -1,0 +1,576 @@
+{
+  "sha256": "9985b515f88a0b47762864d5e86be632edc575c8999113285ba51623c842797e",
+  "verification": "All 114 chapter headings visually matched to chapter names in the supplied scan. Bismillah bands located candidate crops; covers and closing supplication excluded. At-Tawbah verified separately on PDF page 169. headingTopPx is an approximate preview crop coordinate in the 1800px rendition, not a text extraction.",
+  "entries": [
+    {
+      "id": 1,
+      "page": 2,
+      "headingTopPx": 568
+    },
+    {
+      "id": 2,
+      "page": 3,
+      "headingTopPx": 587
+    },
+    {
+      "id": 3,
+      "page": 46,
+      "headingTopPx": 327
+    },
+    {
+      "id": 4,
+      "page": 70,
+      "headingTopPx": 1157
+    },
+    {
+      "id": 5,
+      "page": 97,
+      "headingTopPx": 105
+    },
+    {
+      "id": 6,
+      "page": 116,
+      "headingTopPx": 786
+    },
+    {
+      "id": 7,
+      "page": 137,
+      "headingTopPx": 31
+    },
+    {
+      "id": 8,
+      "page": 160,
+      "headingTopPx": 863
+    },
+    {
+      "id": 9,
+      "page": 169,
+      "headingTopPx": 1140
+    },
+    {
+      "id": 10,
+      "page": 188,
+      "headingTopPx": 192
+    },
+    {
+      "id": 11,
+      "page": 200,
+      "headingTopPx": 687
+    },
+    {
+      "id": 12,
+      "page": 213,
+      "headingTopPx": 191
+    },
+    {
+      "id": 13,
+      "page": 225,
+      "headingTopPx": 222
+    },
+    {
+      "id": 14,
+      "page": 231,
+      "headingTopPx": 107
+    },
+    {
+      "id": 15,
+      "page": 236,
+      "headingTopPx": 1364
+    },
+    {
+      "id": 16,
+      "page": 241,
+      "headingTopPx": 1248
+    },
+    {
+      "id": 17,
+      "page": 255,
+      "headingTopPx": 8
+    },
+    {
+      "id": 18,
+      "page": 265,
+      "headingTopPx": 1145
+    },
+    {
+      "id": 19,
+      "page": 276,
+      "headingTopPx": 23
+    },
+    {
+      "id": 20,
+      "page": 282,
+      "headingTopPx": 486
+    },
+    {
+      "id": 21,
+      "page": 291,
+      "headingTopPx": 103
+    },
+    {
+      "id": 22,
+      "page": 300,
+      "headingTopPx": 100
+    },
+    {
+      "id": 23,
+      "page": 309,
+      "headingTopPx": 8
+    },
+    {
+      "id": 24,
+      "page": 316,
+      "headingTopPx": 495
+    },
+    {
+      "id": 25,
+      "page": 325,
+      "headingTopPx": 195
+    },
+    {
+      "id": 26,
+      "page": 331,
+      "headingTopPx": 296
+    },
+    {
+      "id": 27,
+      "page": 340,
+      "headingTopPx": 590
+    },
+    {
+      "id": 28,
+      "page": 348,
+      "headingTopPx": 107
+    },
+    {
+      "id": 29,
+      "page": 358,
+      "headingTopPx": 491
+    },
+    {
+      "id": 30,
+      "page": 365,
+      "headingTopPx": 1055
+    },
+    {
+      "id": 31,
+      "page": 371,
+      "headingTopPx": 685
+    },
+    {
+      "id": 32,
+      "page": 374,
+      "headingTopPx": 1344
+    },
+    {
+      "id": 33,
+      "page": 377,
+      "headingTopPx": 584
+    },
+    {
+      "id": 34,
+      "page": 386,
+      "headingTopPx": 857
+    },
+    {
+      "id": 35,
+      "page": 392,
+      "headingTopPx": 783
+    },
+    {
+      "id": 36,
+      "page": 397,
+      "headingTopPx": 1045
+    },
+    {
+      "id": 37,
+      "page": 402,
+      "headingTopPx": 1176
+    },
+    {
+      "id": 38,
+      "page": 409,
+      "headingTopPx": 117
+    },
+    {
+      "id": 39,
+      "page": 413,
+      "headingTopPx": 1162
+    },
+    {
+      "id": 40,
+      "page": 421,
+      "headingTopPx": 1143
+    },
+    {
+      "id": 41,
+      "page": 430,
+      "headingTopPx": 390
+    },
+    {
+      "id": 42,
+      "page": 435,
+      "headingTopPx": 1354
+    },
+    {
+      "id": 43,
+      "page": 441,
+      "headingTopPx": 1140
+    },
+    {
+      "id": 44,
+      "page": 447,
+      "headingTopPx": 763
+    },
+    {
+      "id": 45,
+      "page": 449,
+      "headingTopPx": 1357
+    },
+    {
+      "id": 46,
+      "page": 453,
+      "headingTopPx": 102
+    },
+    {
+      "id": 47,
+      "page": 457,
+      "headingTopPx": 580
+    },
+    {
+      "id": 48,
+      "page": 461,
+      "headingTopPx": 8
+    },
+    {
+      "id": 49,
+      "page": 464,
+      "headingTopPx": 1348
+    },
+    {
+      "id": 50,
+      "page": 467,
+      "headingTopPx": 493
+    },
+    {
+      "id": 51,
+      "page": 469,
+      "headingTopPx": 1359
+    },
+    {
+      "id": 52,
+      "page": 472,
+      "headingTopPx": 592
+    },
+    {
+      "id": 53,
+      "page": 474,
+      "headingTopPx": 794
+    },
+    {
+      "id": 54,
+      "page": 476,
+      "headingTopPx": 1347
+    },
+    {
+      "id": 55,
+      "page": 479,
+      "headingTopPx": 493
+    },
+    {
+      "id": 56,
+      "page": 482,
+      "headingTopPx": 109
+    },
+    {
+      "id": 57,
+      "page": 485,
+      "headingTopPx": 117
+    },
+    {
+      "id": 58,
+      "page": 489,
+      "headingTopPx": 102
+    },
+    {
+      "id": 59,
+      "page": 492,
+      "headingTopPx": 1061
+    },
+    {
+      "id": 60,
+      "page": 496,
+      "headingTopPx": 101
+    },
+    {
+      "id": 61,
+      "page": 498,
+      "headingTopPx": 1157
+    },
+    {
+      "id": 62,
+      "page": 500,
+      "headingTopPx": 769
+    },
+    {
+      "id": 63,
+      "page": 501,
+      "headingTopPx": 1349
+    },
+    {
+      "id": 64,
+      "page": 503,
+      "headingTopPx": 497
+    },
+    {
+      "id": 65,
+      "page": 505,
+      "headingTopPx": 212
+    },
+    {
+      "id": 66,
+      "page": 507,
+      "headingTopPx": 296
+    },
+    {
+      "id": 67,
+      "page": 509,
+      "headingTopPx": 125
+    },
+    {
+      "id": 68,
+      "page": 511,
+      "headingTopPx": 606
+    },
+    {
+      "id": 69,
+      "page": 513,
+      "headingTopPx": 1069
+    },
+    {
+      "id": 70,
+      "page": 515,
+      "headingTopPx": 1144
+    },
+    {
+      "id": 71,
+      "page": 517,
+      "headingTopPx": 863
+    },
+    {
+      "id": 72,
+      "page": 519,
+      "headingTopPx": 389
+    },
+    {
+      "id": 73,
+      "page": 521,
+      "headingTopPx": 187
+    },
+    {
+      "id": 74,
+      "page": 522,
+      "headingTopPx": 964
+    },
+    {
+      "id": 75,
+      "page": 524,
+      "headingTopPx": 685
+    },
+    {
+      "id": 76,
+      "page": 525,
+      "headingTopPx": 1075
+    },
+    {
+      "id": 77,
+      "page": 527,
+      "headingTopPx": 668
+    },
+    {
+      "id": 78,
+      "page": 529,
+      "headingTopPx": 107
+    },
+    {
+      "id": 79,
+      "page": 530,
+      "headingTopPx": 679
+    },
+    {
+      "id": 80,
+      "page": 531,
+      "headingTopPx": 1357
+    },
+    {
+      "id": 81,
+      "page": 533,
+      "headingTopPx": 53
+    },
+    {
+      "id": 82,
+      "page": 533,
+      "headingTopPx": 1335
+    },
+    {
+      "id": 83,
+      "page": 534,
+      "headingTopPx": 768
+    },
+    {
+      "id": 84,
+      "page": 535,
+      "headingTopPx": 1240
+    },
+    {
+      "id": 85,
+      "page": 536,
+      "headingTopPx": 971
+    },
+    {
+      "id": 86,
+      "page": 537,
+      "headingTopPx": 779
+    },
+    {
+      "id": 87,
+      "page": 538,
+      "headingTopPx": 16
+    },
+    {
+      "id": 88,
+      "page": 538,
+      "headingTopPx": 974
+    },
+    {
+      "id": 89,
+      "page": 539,
+      "headingTopPx": 583
+    },
+    {
+      "id": 90,
+      "page": 540,
+      "headingTopPx": 684
+    },
+    {
+      "id": 91,
+      "page": 541,
+      "headingTopPx": 192
+    },
+    {
+      "id": 92,
+      "page": 541,
+      "headingTopPx": 970
+    },
+    {
+      "id": 93,
+      "page": 542,
+      "headingTopPx": 491
+    },
+    {
+      "id": 94,
+      "page": 542,
+      "headingTopPx": 1068
+    },
+    {
+      "id": 95,
+      "page": 543,
+      "headingTopPx": 0
+    },
+    {
+      "id": 96,
+      "page": 543,
+      "headingTopPx": 583
+    },
+    {
+      "id": 97,
+      "page": 544,
+      "headingTopPx": 8
+    },
+    {
+      "id": 98,
+      "page": 544,
+      "headingTopPx": 396
+    },
+    {
+      "id": 99,
+      "page": 545,
+      "headingTopPx": 12
+    },
+    {
+      "id": 100,
+      "page": 545,
+      "headingTopPx": 588
+    },
+    {
+      "id": 101,
+      "page": 545,
+      "headingTopPx": 1168
+    },
+    {
+      "id": 102,
+      "page": 546,
+      "headingTopPx": 189
+    },
+    {
+      "id": 103,
+      "page": 546,
+      "headingTopPx": 663
+    },
+    {
+      "id": 104,
+      "page": 546,
+      "headingTopPx": 1042
+    },
+    {
+      "id": 105,
+      "page": 547,
+      "headingTopPx": 12
+    },
+    {
+      "id": 106,
+      "page": 547,
+      "headingTopPx": 395
+    },
+    {
+      "id": 107,
+      "page": 547,
+      "headingTopPx": 771
+    },
+    {
+      "id": 108,
+      "page": 547,
+      "headingTopPx": 1251
+    },
+    {
+      "id": 109,
+      "page": 548,
+      "headingTopPx": 16
+    },
+    {
+      "id": 110,
+      "page": 548,
+      "headingTopPx": 487
+    },
+    {
+      "id": 111,
+      "page": 548,
+      "headingTopPx": 870
+    },
+    {
+      "id": 112,
+      "page": 548,
+      "headingTopPx": 1262
+    },
+    {
+      "id": 113,
+      "page": 549,
+      "headingTopPx": 93
+    },
+    {
+      "id": 114,
+      "page": 549,
+      "headingTopPx": 578
+    }
+  ]
+}

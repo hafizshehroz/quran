@@ -1,0 +1,22 @@
+{
+  "retrieved": "2026-10-25",
+  "chapters": {
+    "url": "https://api.quran.com/api/v4/chapters?language=en",
+    "fields": [
+      "id",
+      "name_simple",
+      "name_arabic",
+      "translated_name.name",
+      "verses_count",
+      "revelation_place"
+    ],
+    "omitted": [
+      "pages",
+      "revelation_order"
+    ]
+  },
+  "juzs": {
+    "url": "https://api.quran.com/api/v4/juzs",
+    "notes": "Response contains duplicate Juz records. Deduplicated by juz_number. Starting Surah and ayah come from the first verse_mapping entry. No PDF page links imported."
+  }
+}

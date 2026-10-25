@@ -1,0 +1,186 @@
+{
+  "sha256": "9985b515f88a0b47762864d5e86be632edc575c8999113285ba51623c842797e",
+  "verification": "Visual review of opening verses on all 30 PDF section starts. Section candidates located from PDF-added page labels; page links confirmed from the scan, not inferred from labels alone.",
+  "entries": [
+    {
+      "id": 1,
+      "page": 2,
+      "surah": 1,
+      "ayah": 1
+    },
+    {
+      "id": 2,
+      "page": 21,
+      "surah": 2,
+      "ayah": 142
+    },
+    {
+      "id": 3,
+      "page": 39,
+      "surah": 2,
+      "ayah": 253
+    },
+    {
+      "id": 4,
+      "page": 57,
+      "surah": 3,
+      "ayah": 92
+    },
+    {
+      "id": 5,
+      "page": 75,
+      "surah": 4,
+      "ayah": 24
+    },
+    {
+      "id": 6,
+      "page": 93,
+      "surah": 4,
+      "ayah": 148
+    },
+    {
+      "id": 7,
+      "page": 111,
+      "surah": 5,
+      "ayah": 83
+    },
+    {
+      "id": 8,
+      "page": 129,
+      "surah": 6,
+      "ayah": 111
+    },
+    {
+      "id": 9,
+      "page": 147,
+      "surah": 7,
+      "ayah": 88
+    },
+    {
+      "id": 10,
+      "page": 165,
+      "surah": 8,
+      "ayah": 41
+    },
+    {
+      "id": 11,
+      "page": 183,
+      "surah": 9,
+      "ayah": 94
+    },
+    {
+      "id": 12,
+      "page": 201,
+      "surah": 11,
+      "ayah": 6
+    },
+    {
+      "id": 13,
+      "page": 219,
+      "surah": 12,
+      "ayah": 53
+    },
+    {
+      "id": 14,
+      "page": 237,
+      "surah": 15,
+      "ayah": 2
+    },
+    {
+      "id": 15,
+      "page": 255,
+      "surah": 17,
+      "ayah": 1
+    },
+    {
+      "id": 16,
+      "page": 273,
+      "surah": 18,
+      "ayah": 75
+    },
+    {
+      "id": 17,
+      "page": 291,
+      "surah": 21,
+      "ayah": 1
+    },
+    {
+      "id": 18,
+      "page": 309,
+      "surah": 23,
+      "ayah": 1
+    },
+    {
+      "id": 19,
+      "page": 327,
+      "surah": 25,
+      "ayah": 21
+    },
+    {
+      "id": 20,
+      "page": 345,
+      "surah": 27,
+      "ayah": 60
+    },
+    {
+      "id": 21,
+      "page": 363,
+      "surah": 29,
+      "ayah": 45
+    },
+    {
+      "id": 22,
+      "page": 381,
+      "surah": 33,
+      "ayah": 31
+    },
+    {
+      "id": 23,
+      "page": 399,
+      "surah": 36,
+      "ayah": 22
+    },
+    {
+      "id": 24,
+      "page": 417,
+      "surah": 39,
+      "ayah": 32
+    },
+    {
+      "id": 25,
+      "page": 435,
+      "surah": 41,
+      "ayah": 47
+    },
+    {
+      "id": 26,
+      "page": 453,
+      "surah": 46,
+      "ayah": 1
+    },
+    {
+      "id": 27,
+      "page": 471,
+      "surah": 51,
+      "ayah": 31
+    },
+    {
+      "id": 28,
+      "page": 489,
+      "surah": 58,
+      "ayah": 1
+    },
+    {
+      "id": 29,
+      "page": 509,
+      "surah": 67,
+      "ayah": 1
+    },
+    {
+      "id": 30,
+      "page": 529,
+      "surah": 78,
+      "ayah": 1
+    }
+  ]
+}

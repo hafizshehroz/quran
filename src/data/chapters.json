@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "name": "Al-Fatihah",
+    "arabic": "الفاتحة",
+    "translation": "The Opener",
+    "ayahs": 7,
+    "revelation": "makkah"
+  },
+  {
+    "id": 2,
+    "name": "Al-Baqarah",
+    "arabic": "البقرة",
+    "translation": "The Cow",
+    "ayahs": 286,
+    "revelation": "madinah"
+  },
+  {
+    "id": 3,
+    "name": "Ali 'Imran",
+    "arabic": "آل عمران",
+    "translation": "Family of Imran",
+    "ayahs": 200,
+    "revelation": "madinah"
+  },
+  {
+    "id": 4,
+    "name": "An-Nisa",
+    "arabic": "النساء",
+    "translation": "The Women",
+    "ayahs": 176,
+    "revelation": "madinah"
+  },
+  {
+    "id": 5,
+    "name": "Al-Ma'idah",
+    "arabic": "المائدة",
+    "translation": "The Table Spread",
+    "ayahs": 120,
+    "revelation": "madinah"
+  },
+  {
+    "id": 6,
+    "name": "Al-An'am",
+    "arabic": "الأنعام",
+    "translation": "The Cattle",
+    "ayahs": 165,
+    "revelation": "makkah"
+  },
+  {
+    "id": 7,
+    "name": "Al-A'raf",
+    "arabic": "الأعراف",
+    "translation": "The Heights",
+    "ayahs": 206,
+    "revelation": "makkah"
+  },
+  {
+    "id": 8,
+    "name": "Al-Anfal",
+    "arabic": "الأنفال",
+    "translation": "The Spoils of War",
+    "ayahs": 75,
+    "revelation": "madinah"
+  },
+  {
+    "id": 9,
+    "name": "At-Tawbah",
+    "arabic": "التوبة",
+    "translation": "The Repentance",
+    "ayahs": 129,
+    "revelation": "madinah"
+  },
+  {
+    "id": 10,
+    "name": "Yunus",
+    "arabic": "يونس",
+    "translation": "Jonah",
+    "ayahs": 109,
+    "revelation": "makkah"
+  },
+  {
+    "id": 11,
+    "name": "Hud",
+    "arabic": "هود",
+    "translation": "Hud",
+    "ayahs": 123,
+    "revelation": "makkah"
+  },
+  {
+    "id": 12,
+    "name": "Yusuf",
+    "arabic": "يوسف",
+    "translation": "Joseph",
+    "ayahs": 111,
+    "revelation": "makkah"
+  },
+  {
+    "id": 13,
+    "name": "Ar-Ra'd",
+    "arabic": "الرعد",
+    "translation": "The Thunder",
+    "ayahs": 43,
+    "revelation": "madinah"
+  },
+  {
+    "id": 14,
+    "name": "Ibrahim",
+    "arabic": "ابراهيم",
+    "translation": "Abraham",
+    "ayahs": 52,
+    "revelation": "makkah"
+  },
+  {
+    "id": 15,
+    "name": "Al-Hijr",
+    "arabic": "الحجر",
+    "translation": "The Rocky Tract",
+    "ayahs": 99,
+    "revelation": "makkah"
+  },
+  {
+    "id": 16,
+    "name": "An-Nahl",
+    "arabic": "النحل",
+    "translation": "The Bee",
+    "ayahs": 128,
+    "revelation": "makkah"
+  },
+  {
+    "id": 17,
+    "name": "Al-Isra",
+    "arabic": "الإسراء",
+    "translation": "The Night Journey",
+    "ayahs": 111,
+    "revelation": "makkah"
+  },
+  {
+    "id": 18,
+    "name": "Al-Kahf",
+    "arabic": "الكهف",
+    "translation": "The Cave",
+    "ayahs": 110,
+    "revelation": "makkah"
+  },
+  {
+    "id": 19,
+    "name": "Maryam",
+    "arabic": "مريم",
+    "translation": "Mary",
+    "ayahs": 98,
+    "revelation": "makkah"
+  },
+  {
+    "id": 20,
+    "name": "Taha",
+    "arabic": "طه",
+    "translation": "Ta-Ha",
+    "ayahs": 135,
+    "revelation": "makkah"
+  },
+  {
+    "id": 21,
+    "name": "Al-Anbya",
+    "arabic": "الأنبياء",
+    "translation": "The Prophets",
+    "ayahs": 112,
+    "revelation": "makkah"
+  },
+  {
+    "id": 22,
+    "name": "Al-Hajj",
+    "arabic": "الحج",
+    "translation": "The Pilgrimage",
+    "ayahs": 78,
+    "revelation": "madinah"
+  },
+  {
+    "id": 23,
+    "name": "Al-Mu'minun",
+    "arabic": "المؤمنون",
+    "translation": "The Believers",
+    "ayahs": 118,
+    "revelation": "makkah"
+  },
+  {
+    "id": 24,
+    "name": "An-Nur",
+    "arabic": "النور",
+    "translation": "The Light",
+    "ayahs": 64,
+    "revelation": "madinah"
+  },
+  {
+    "id": 25,
+    "name": "Al-Furqan",
+    "arabic": "الفرقان",
+    "translation": "The Criterion",
+    "ayahs": 77,
+    "revelation": "makkah"
+  },
+  {
+    "id": 26,
+    "name": "Ash-Shu'ara",
+    "arabic": "الشعراء",
+    "translation": "The Poets",
+    "ayahs": 227,
+    "revelation": "makkah"
+  },
+  {
+    "id": 27,
+    "name": "An-Naml",
+    "arabic": "النمل",
+    "translation": "The Ant",
+    "ayahs": 93,
+    "revelation": "makkah"
+  },
+  {
+    "id": 28,
+    "name": "Al-Qasas",
+    "arabic": "القصص",
+    "translation": "The Stories",
+    "ayahs": 88,
+    "revelation": "makkah"
+  },
+  {
+    "id": 29,
+    "name": "Al-'Ankabut",
+    "arabic": "العنكبوت",
+    "translation": "The Spider",
+    "ayahs": 69,
+    "revelation": "makkah"
+  },
+  {
+    "id": 30,
+    "name": "Ar-Rum",
+    "arabic": "الروم",
+    "translation": "The Romans",
+    "ayahs": 60,
+    "revelation": "makkah"
+  },
+  {
+    "id": 31,
+    "name": "Luqman",
+    "arabic": "لقمان",
+    "translation": "Luqman",
+    "ayahs": 34,
+    "revelation": "makkah"
+  },
+  {
+    "id": 32,
+    "name": "As-Sajdah",
+    "arabic": "السجدة",
+    "translation": "The Prostration",
+    "ayahs": 30,
+    "revelation": "makkah"
+  },
+  {
+    "id": 33,
+    "name": "Al-Ahzab",
+    "arabic": "الأحزاب",
+    "translation": "The Combined Forces",
+    "ayahs": 73,
+    "revelation": "madinah"
+  },
+  {
+    "id": 34,
+    "name": "Saba",
+    "arabic": "سبإ",
+    "translation": "Sheba",
+    "ayahs": 54,
+    "revelation": "makkah"
+  },
+  {
+    "id": 35,
+    "name": "Fatir",
+    "arabic": "فاطر",
+    "translation": "Originator",
+    "ayahs": 45,
+    "revelation": "makkah"
+  },
+  {
+    "id": 36,
+    "name": "Ya-Sin",
+    "arabic": "يس",
+    "translation": "Ya Sin",
+    "ayahs": 83,
+    "revelation": "makkah"
+  },
+  {
+    "id": 37,
+    "name": "As-Saffat",
+    "arabic": "الصافات",
+    "translation": "Those who set the Ranks",
+    "ayahs": 182,
+    "revelation": "makkah"
+  },
+  {
+    "id": 38,
+    "name": "Sad",
+    "arabic": "ص",
+    "translation": "The Letter \"Saad\"",
+    "ayahs": 88,
+    "revelation": "makkah"
+  },
+  {
+    "id": 39,
+    "name": "Az-Zumar",
+    "arabic": "الزمر",
+    "translation": "The Troops",
+    "ayahs": 75,
+    "revelation": "makkah"
+  },
+  {
+    "id": 40,
+    "name": "Ghafir",
+    "arabic": "غافر",
+    "translation": "The Forgiver",
+    "ayahs": 85,
+    "revelation": "makkah"
+  },
+  {
+    "id": 41,
+    "name": "Fussilat",
+    "arabic": "فصلت",
+    "translation": "Explained in Detail",
+    "ayahs": 54,
+    "revelation": "makkah"
+  },
+  {
+    "id": 42,
+    "name": "Ash-Shuraa",
+    "arabic": "الشورى",
+    "translation": "The Consultation",
+    "ayahs": 53,
+    "revelation": "makkah"
+  },
+  {
+    "id": 43,
+    "name": "Az-Zukhruf",
+    "arabic": "الزخرف",
+    "translation": "The Ornaments of Gold",
+    "ayahs": 89,
+    "revelation": "makkah"
+  },
+  {
+    "id": 44,
+    "name": "Ad-Dukhan",
+    "arabic": "الدخان",
+    "translation": "The Smoke",
+    "ayahs": 59,
+    "revelation": "makkah"
+  },
+  {
+    "id": 45,
+    "name": "Al-Jathiyah",
+    "arabic": "الجاثية",
+    "translation": "The Crouching",
+    "ayahs": 37,
+    "revelation": "makkah"
+  },
+  {
+    "id": 46,
+    "name": "Al-Ahqaf",
+    "arabic": "الأحقاف",
+    "translation": "The Wind-Curved Sandhills",
+    "ayahs": 35,
+    "revelation": "makkah"
+  },
+  {
+    "id": 47,
+    "name": "Muhammad",
+    "arabic": "محمد",
+    "translation": "Muhammad",
+    "ayahs": 38,
+    "revelation": "madinah"
+  },
+  {
+    "id": 48,
+    "name": "Al-Fath",
+    "arabic": "الفتح",
+    "translation": "The Victory",
+    "ayahs": 29,
+    "revelation": "madinah"
+  },
+  {
+    "id": 49,
+    "name": "Al-Hujurat",
+    "arabic": "الحجرات",
+    "translation": "The Rooms",
+    "ayahs": 18,
+    "revelation": "madinah"
+  },
+  {
+    "id": 50,
+    "name": "Qaf",
+    "arabic": "ق",
+    "translation": "The Letter \"Qaf\"",
+    "ayahs": 45,
+    "revelation": "makkah"
+  },
+  {
+    "id": 51,
+    "name": "Adh-Dhariyat",
+    "arabic": "الذاريات",
+    "translation": "The Winnowing Winds",
+    "ayahs": 60,
+    "revelation": "makkah"
+  },
+  {
+    "id": 52,
+    "name": "At-Tur",
+    "arabic": "الطور",
+    "translation": "The Mount",
+    "ayahs": 49,
+    "revelation": "makkah"
+  },
+  {
+    "id": 53,
+    "name": "An-Najm",
+    "arabic": "النجم",
+    "translation": "The Star",
+    "ayahs": 62,
+    "revelation": "makkah"
+  },
+  {
+    "id": 54,
+    "name": "Al-Qamar",
+    "arabic": "القمر",
+    "translation": "The Moon",
+    "ayahs": 55,
+    "revelation": "makkah"
+  },
+  {
+    "id": 55,
+    "name": "Ar-Rahman",
+    "arabic": "الرحمن",
+    "translation": "The Beneficent",
+    "ayahs": 78,
+    "revelation": "madinah"
+  },
+  {
+    "id": 56,
+    "name": "Al-Waqi'ah",
+    "arabic": "الواقعة",
+    "translation": "The Inevitable",
+    "ayahs": 96,
+    "revelation": "makkah"
+  },
+  {
+    "id": 57,
+    "name": "Al-Hadid",
+    "arabic": "الحديد",
+    "translation": "The Iron",
+    "ayahs": 29,
+    "revelation": "madinah"
+  },
+  {
+    "id": 58,
+    "name": "Al-Mujadila",
+    "arabic": "المجادلة",
+    "translation": "The Pleading Woman",
+    "ayahs": 22,
+    "revelation": "madinah"
+  },
+  {
+    "id": 59,
+    "name": "Al-Hashr",
+    "arabic": "الحشر",
+    "translation": "The Exile",
+    "ayahs": 24,
+    "revelation": "madinah"
+  },
+  {
+    "id": 60,
+    "name": "Al-Mumtahanah",
+    "arabic": "الممتحنة",
+    "translation": "She that is to be examined",
+    "ayahs": 13,
+    "revelation": "madinah"
+  },
+  {
+    "id": 61,
+    "name": "As-Saf",
+    "arabic": "الصف",
+    "translation": "The Ranks",
+    "ayahs": 14,
+    "revelation": "madinah"
+  },
+  {
+    "id": 62,
+    "name": "Al-Jumu'ah",
+    "arabic": "الجمعة",
+    "translation": "The Congregation, Friday",
+    "ayahs": 11,
+    "revelation": "madinah"
+  },
+  {
+    "id": 63,
+    "name": "Al-Munafiqun",
+    "arabic": "المنافقون",
+    "translation": "The Hypocrites",
+    "ayahs": 11,
+    "revelation": "madinah"
+  },
+  {
+    "id": 64,
+    "name": "At-Taghabun",
+    "arabic": "التغابن",
+    "translation": "The Mutual Disillusion",
+    "ayahs": 18,
+    "revelation": "madinah"
+  },
+  {
+    "id": 65,
+    "name": "At-Talaq",
+    "arabic": "الطلاق",
+    "translation": "The Divorce",
+    "ayahs": 12,
+    "revelation": "madinah"
+  },
+  {
+    "id": 66,
+    "name": "At-Tahrim",
+    "arabic": "التحريم",
+    "translation": "The Prohibition",
+    "ayahs": 12,
+    "revelation": "madinah"
+  },
+  {
+    "id": 67,
+    "name": "Al-Mulk",
+    "arabic": "الملك",
+    "translation": "The Sovereignty",
+    "ayahs": 30,
+    "revelation": "makkah"
+  },
+  {
+    "id": 68,
+    "name": "Al-Qalam",
+    "arabic": "القلم",
+    "translation": "The Pen",
+    "ayahs": 52,
+    "revelation": "makkah"
+  },
+  {
+    "id": 69,
+    "name": "Al-Haqqah",
+    "arabic": "الحاقة",
+    "translation": "The Reality",
+    "ayahs": 52,
+    "revelation": "makkah"
+  },
+  {
+    "id": 70,
+    "name": "Al-Ma'arij",
+    "arabic": "المعارج",
+    "translation": "The Ascending Stairways",
+    "ayahs": 44,
+    "revelation": "makkah"
+  },
+  {
+    "id": 71,
+    "name": "Nuh",
+    "arabic": "نوح",
+    "translation": "Noah",
+    "ayahs": 28,
+    "revelation": "makkah"
+  },
+  {
+    "id": 72,
+    "name": "Al-Jinn",
+    "arabic": "الجن",
+    "translation": "The Jinn",
+    "ayahs": 28,
+    "revelation": "makkah"
+  },
+  {
+    "id": 73,
+    "name": "Al-Muzzammil",
+    "arabic": "المزمل",
+    "translation": "The Enshrouded One",
+    "ayahs": 20,
+    "revelation": "makkah"
+  },
+  {
+    "id": 74,
+    "name": "Al-Muddaththir",
+    "arabic": "المدثر",
+    "translation": "The Cloaked One",
+    "ayahs": 56,
+    "revelation": "makkah"
+  },
+  {
+    "id": 75,
+    "name": "Al-Qiyamah",
+    "arabic": "القيامة",
+    "translation": "The Resurrection",
+    "ayahs": 40,
+    "revelation": "makkah"
+  },
+  {
+    "id": 76,
+    "name": "Al-Insan",
+    "arabic": "الانسان",
+    "translation": "The Man",
+    "ayahs": 31,
+    "revelation": "madinah"
+  },
+  {
+    "id": 77,
+    "name": "Al-Mursalat",
+    "arabic": "المرسلات",
+    "translation": "The Emissaries",
+    "ayahs": 50,
+    "revelation": "makkah"
+  },
+  {
+    "id": 78,
+    "name": "An-Naba",
+    "arabic": "النبإ",
+    "translation": "The Tidings",
+    "ayahs": 40,
+    "revelation": "makkah"
+  },
+  {
+    "id": 79,
+    "name": "An-Nazi'at",
+    "arabic": "النازعات",
+    "translation": "Those who drag forth",
+    "ayahs": 46,
+    "revelation": "makkah"
+  },
+  {
+    "id": 80,
+    "name": "'Abasa",
+    "arabic": "عبس",
+    "translation": "He Frowned",
+    "ayahs": 42,
+    "revelation": "makkah"
+  },
+  {
+    "id": 81,
+    "name": "At-Takwir",
+    "arabic": "التكوير",
+    "translation": "The Overthrowing",
+    "ayahs": 29,
+    "revelation": "makkah"
+  },
+  {
+    "id": 82,
+    "name": "Al-Infitar",
+    "arabic": "الإنفطار",
+    "translation": "The Cleaving",
+    "ayahs": 19,
+    "revelation": "makkah"
+  },
+  {
+    "id": 83,
+    "name": "Al-Mutaffifin",
+    "arabic": "المطففين",
+    "translation": "The Defrauding",
+    "ayahs": 36,
+    "revelation": "makkah"
+  },
+  {
+    "id": 84,
+    "name": "Al-Inshiqaq",
+    "arabic": "الإنشقاق",
+    "translation": "The Sundering",
+    "ayahs": 25,
+    "revelation": "makkah"
+  },
+  {
+    "id": 85,
+    "name": "Al-Buruj",
+    "arabic": "البروج",
+    "translation": "The Mansions of the Stars",
+    "ayahs": 22,
+    "revelation": "makkah"
+  },
+  {
+    "id": 86,
+    "name": "At-Tariq",
+    "arabic": "الطارق",
+    "translation": "The Nightcommer",
+    "ayahs": 17,
+    "revelation": "makkah"
+  },
+  {
+    "id": 87,
+    "name": "Al-A'la",
+    "arabic": "الأعلى",
+    "translation": "The Most High",
+    "ayahs": 19,
+    "revelation": "makkah"
+  },
+  {
+    "id": 88,
+    "name": "Al-Ghashiyah",
+    "arabic": "الغاشية",
+    "translation": "The Overwhelming",
+    "ayahs": 26,
+    "revelation": "makkah"
+  },
+  {
+    "id": 89,
+    "name": "Al-Fajr",
+    "arabic": "الفجر",
+    "translation": "The Dawn",
+    "ayahs": 30,
+    "revelation": "makkah"
+  },
+  {
+    "id": 90,
+    "name": "Al-Balad",
+    "arabic": "البلد",
+    "translation": "The City",
+    "ayahs": 20,
+    "revelation": "makkah"
+  },
+  {
+    "id": 91,
+    "name": "Ash-Shams",
+    "arabic": "الشمس",
+    "translation": "The Sun",
+    "ayahs": 15,
+    "revelation": "makkah"
+  },
+  {
+    "id": 92,
+    "name": "Al-Layl",
+    "arabic": "الليل",
+    "translation": "The Night",
+    "ayahs": 21,
+    "revelation": "makkah"
+  },
+  {
+    "id": 93,
+    "name": "Ad-Duhaa",
+    "arabic": "الضحى",
+    "translation": "The Morning Hours",
+    "ayahs": 11,
+    "revelation": "makkah"
+  },
+  {
+    "id": 94,
+    "name": "Ash-Sharh",
+    "arabic": "الشرح",
+    "translation": "The Relief",
+    "ayahs": 8,
+    "revelation": "makkah"
+  },
+  {
+    "id": 95,
+    "name": "At-Tin",
+    "arabic": "التين",
+    "translation": "The Fig",
+    "ayahs": 8,
+    "revelation": "makkah"
+  },
+  {
+    "id": 96,
+    "name": "Al-'Alaq",
+    "arabic": "العلق",
+    "translation": "The Clot",
+    "ayahs": 19,
+    "revelation": "makkah"
+  },
+  {
+    "id": 97,
+    "name": "Al-Qadr",
+    "arabic": "القدر",
+    "translation": "The Power",
+    "ayahs": 5,
+    "revelation": "makkah"
+  },
+  {
+    "id": 98,
+    "name": "Al-Bayyinah",
+    "arabic": "البينة",
+    "translation": "The Clear Proof",
+    "ayahs": 8,
+    "revelation": "madinah"
+  },
+  {
+    "id": 99,
+    "name": "Az-Zalzalah",
+    "arabic": "الزلزلة",
+    "translation": "The Earthquake",
+    "ayahs": 8,
+    "revelation": "madinah"
+  },
+  {
+    "id": 100,
+    "name": "Al-'Adiyat",
+    "arabic": "العاديات",
+    "translation": "The Courser",
+    "ayahs": 11,
+    "revelation": "makkah"
+  },
+  {
+    "id": 101,
+    "name": "Al-Qari'ah",
+    "arabic": "القارعة",
+    "translation": "The Calamity",
+    "ayahs": 11,
+    "revelation": "makkah"
+  },
+  {
+    "id": 102,
+    "name": "At-Takathur",
+    "arabic": "التكاثر",
+    "translation": "The Rivalry in world increase",
+    "ayahs": 8,
+    "revelation": "makkah"
+  },
+  {
+    "id": 103,
+    "name": "Al-'Asr",
+    "arabic": "العصر",
+    "translation": "The Declining Day",
+    "ayahs": 3,
+    "revelation": "makkah"
+  },
+  {
+    "id": 104,
+    "name": "Al-Humazah",
+    "arabic": "الهمزة",
+    "translation": "The Traducer",
+    "ayahs": 9,
+    "revelation": "makkah"
+  },
+  {
+    "id": 105,
+    "name": "Al-Fil",
+    "arabic": "الفيل",
+    "translation": "The Elephant",
+    "ayahs": 5,
+    "revelation": "makkah"
+  },
+  {
+    "id": 106,
+    "name": "Quraysh",
+    "arabic": "قريش",
+    "translation": "Quraysh",
+    "ayahs": 4,
+    "revelation": "makkah"
+  },
+  {
+    "id": 107,
+    "name": "Al-Ma'un",
+    "arabic": "الماعون",
+    "translation": "The Small kindnesses",
+    "ayahs": 7,
+    "revelation": "makkah"
+  },
+  {
+    "id": 108,
+    "name": "Al-Kawthar",
+    "arabic": "الكوثر",
+    "translation": "The Abundance",
+    "ayahs": 3,
+    "revelation": "makkah"
+  },
+  {
+    "id": 109,
+    "name": "Al-Kafirun",
+    "arabic": "الكافرون",
+    "translation": "The Disbelievers",
+    "ayahs": 6,
+    "revelation": "makkah"
+  },
+  {
+    "id": 110,
+    "name": "An-Nasr",
+    "arabic": "النصر",
+    "translation": "The Divine Support",
+    "ayahs": 3,
+    "revelation": "madinah"
+  },
+  {
+    "id": 111,
+    "name": "Al-Masad",
+    "arabic": "المسد",
+    "translation": "The Palm Fiber",
+    "ayahs": 5,
+    "revelation": "makkah"
+  },
+  {
+    "id": 112,
+    "name": "Al-Ikhlas",
+    "arabic": "الإخلاص",
+    "translation": "The Sincerity",
+    "ayahs": 4,
+    "revelation": "makkah"
+  },
+  {
+    "id": 113,
+    "name": "Al-Falaq",
+    "arabic": "الفلق",
+    "translation": "The Daybreak",
+    "ayahs": 5,
+    "revelation": "makkah"
+  },
+  {
+    "id": 114,
+    "name": "An-Nas",
+    "arabic": "الناس",
+    "translation": "Mankind",
+    "ayahs": 6,
+    "revelation": "makkah"
+  }
+]
